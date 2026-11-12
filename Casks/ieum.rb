@@ -1,6 +1,6 @@
 cask "ieum" do
-  version "0.5.0"
-  sha256 "e2f0dcd39541ada48eaabbd93bae594076996ff08f90efdbca768f0615270232"
+  version "0.6.0"
+  sha256 "af6105ded0828e02273372944980515dd04be85e735ed7acde57abbc96bc85b0"
 
   url "https://github.com/stoneidev/ieum/releases/download/v#{version}/Ieum.dmg"
   name "Ieum"
